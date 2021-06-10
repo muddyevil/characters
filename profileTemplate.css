@@ -1,0 +1,107 @@
+body {
+    background-color: #F1E5D8;
+}
+
+/* Navigation */
+
+.mainNav {
+    background-color: #191011;
+    color: #F1E5D8;
+    font-size: 2em;
+    text-align: justify;
+    float: right;
+    clear: left;
+    padding: 5px;
+    margin: 5px;
+}
+
+.mainNav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.mainNav li {
+    display: inline;
+    padding: 8px;
+}
+
+.universesNav {
+    float: left;
+    color: #F1E5D8;
+    background-color: #9C1B4B;
+    font-size: 1.5em;
+    text-align: justify;
+}
+
+.universesNav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.universesNav li {
+    display: inline;
+    padding: 8px;
+}
+
+.sideNav {
+    font-size: 1em;
+    float: left;
+    background-color: aliceblue;
+    text-align: center;
+}
+
+.sideNav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.sideNav li {
+    padding: 8px;
+}
+
+.basics {
+    font-size: 1em;
+}
+
+.basics ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.basics li {
+    display: inline;
+    padding: 8px;
+}
+
+  /* Name */
+
+.name {
+
+}
+
+.name h1 {
+    font-size: 3em;
+}
+
+.name p {
+    font-size: 1em;
+}
+
+/* Top */
+
+#top {
+    width: 95%;
+    clear: right;
+  }
+  
+img {
+
+}
+
+  img, .basics {
+
+  }
